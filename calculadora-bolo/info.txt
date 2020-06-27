@@ -1,0 +1,35 @@
+""" 
+a function is a block of code which only runs when it is called
+you can pass data, known as parameters, into a function.
+
+a function can return data as a result
+"""
+
+#to create a function in python we use the word def
+
+
+def my_function():
+    print("Hello from a function")
+
+"""calling a function
+
+To call a function, use the function name followed by parenthesis:
+same as javascript
+"""
+def my_function():
+    print("Hello from a function")
+
+my_function()
+
+"""
+Arguments
+information can be passed into functions as Arguments
+Arguments are specified after the function name, inside the parentheses. You can add as many arguments as you want,
+just separate them with a comma. 
+The following example has a function with one argument (fname). When the function is called, we pass along a first name, which is used inside the function to print the full name:
+
+def my_function(fname)
+    print(fname + " refsnes"
+my_function("Emil")
+my_function("Tobias"
+my_function("Linus")

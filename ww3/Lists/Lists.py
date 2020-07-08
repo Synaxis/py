@@ -1,16 +1,16 @@
-"""Python Collections (arrays  )
+"""Python Collections (arrays)
 
 - List is a collection which is ordered and changeable. Allows
-duplicate members
+duplicated members
 -Tuple is a collection which is ordered and UNCHANGEABLE.
 Allows
-duplicate members
--Set is a collection which is unordered and unindexed. No duplicate members.
--Dictionary is a collection which is unordered, changeable and indexed. No duplicate members.
+duplicated members
+-Set is a collection which is unordered and unindexed. No duplicated members.
+-Dictionary is a collection which is unordered, changeable and indexed. No duplicated members.
 """
 
 # List
-#A collection which is ordered and changeable. in Python its written wieh brackets[]
+#A collection which is ordered and changeable. in Python its written with brackets[]
 thisList = ["apple", "banana", "cherry"]
 print(thisList)
 
